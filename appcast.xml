@@ -14,15 +14,9 @@
                     </ul>
                 ]]>    
             </description>
-<!--             <enclosure
-                url="https://tools.veracode.com/integrations/xcode/com.ca-veracode.mobileapppackager.dmg"
-                sparkle:version="1.1.23"
-                sparkle:shortVersionString="1.1.23"
-            /> -->
             <sparkle:version>1.2.4</sparkle:version>
             <link>https://help.veracode.com/reader/eAvornYxfrGF2caDJIBu_g/5PHkVxr_Xfk9qckXbBjTHA</link>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
-
     </channel>
 </rss>
