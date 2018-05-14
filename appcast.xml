@@ -6,7 +6,7 @@
         <description>Mobile App Packager Release Notes</description>
         <language>en</language>
         <item>
-            <title>Mobile App Packager 1.0.23</title>
+            <title>Mobile App Packager 1.2.4</title>
             <description>
                 <![CDATA[
                     <ul>
@@ -14,12 +14,14 @@
                     </ul>
                 ]]>    
             </description>
-            <enclosure
+<!--             <enclosure
                 url="https://tools.veracode.com/integrations/xcode/com.ca-veracode.mobileapppackager.dmg"
                 sparkle:version="1.1.23"
                 sparkle:shortVersionString="1.1.23"
-            />
+            /> -->
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
+         <sparkle:version>1.2.4</sparkle:version>
+  <link>https://help.veracode.com/reader/eAvornYxfrGF2caDJIBu_g/5PHkVxr_Xfk9qckXbBjTHA</link>
     </channel>
 </rss>
