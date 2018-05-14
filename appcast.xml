@@ -5,15 +5,10 @@
         <link>https://github.com/alfadesigns/appcast/raw/master/appcast.xml</link>
         <description>Mobile App Packager Release Notes</description>
         <language>en</language>
-        <item>
-            <title>Mobile App Packager 1.2.4</title>
-            <description>
-                <![CDATA[
-                    <ul>
-                        <li>Bug fixes and performance improvements</li>
-                    </ul>
-                ]]>    
-            </description>
+      <item>
+        <title>Version 1.2.4</title>
+        <sparkle:releaseNotesLink>https://example.com/release_notes_test.html</sparkle:releaseNotesLink>
+        <pubDate>Mon, 14 May 2018 14:30:00 +0500</pubDate>
             <sparkle:version>1.2.4</sparkle:version>
             <link>https://help.veracode.com/reader/eAvornYxfrGF2caDJIBu_g/5PHkVxr_Xfk9qckXbBjTHA</link>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
