@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Mobile App Packager</title>
+        <link>https://raw.githubusercontent.com/wzqcongcong/macSubstrate/master/Release/appcast.xml</link>
+        <description>Mobile App Packager Release Notes</description>
+        <language>en</language>
+        <item>
+            <title>Mobile App Packager 1.1</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>    
+            </description>
+            <enclosure
+                url="https://github.com/wzqcongcong/macSubstrate/releases/download/1.0.3/macSubstrate.app.zip"
+                sparkle:version="1.0.3"
+                sparkle:shortVersionString="1.0.3"
+            />
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
